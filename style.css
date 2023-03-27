@@ -148,6 +148,8 @@ nav button {
     word-spacing: 2px;
 }
 
+/* Second body section of the page */
+
 #body2 {
     background-color: rgb(243, 246, 248);
     display: flex;
@@ -181,6 +183,8 @@ nav button {
     font-size: 20px;
     word-spacing: 2px;
 }
+
+/* Third body section of the page */
 
 #body3 {
     background-color: white;
@@ -240,6 +244,8 @@ nav button {
     width: 400px;
 }
 
+/* Fourth body section of the page */
+
 #body4 {
     display: flex;
     flex-direction: column;
@@ -272,6 +278,8 @@ nav button {
     padding-top: 50px;
 }
 
+/* Fifth body section of the page */
+
 #body5 {
     display: flex;
     flex-direction: column;
@@ -300,6 +308,8 @@ nav button {
     font-size: 18px;
     padding-top: 20px
 }
+
+/* Footer section of the page */
 
 footer {
     background-color: rgb(46, 44, 44);
